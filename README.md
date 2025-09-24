@@ -22,6 +22,6 @@ Note: Enabling the Cloud Workload Protection (CWP) Servers plan from Off to On e
 <img width="4408" height="2524" alt="379764086-de434a75-345a-4023-83f1-fa53fcb5f288" src="https://github.com/user-attachments/assets/dcfb14d7-fdfc-41f1-a4c2-c034e7957843" />
 
 
-If you have followed the exercise, it means you now know how to configure Microsoft Defender for Cloud Enhanced Security Features for Servers and als How to Review the enhanced security features for Microsoft Defender for Servers Plan 2.
+If you have followed the exercise, it means you now know how to configure Microsoft Defender for Cloud Enhanced Security Features for Servers and also How to Review the enhanced security features for Microsoft Defender for Servers Plan 2.
 
 
