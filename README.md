@@ -1,4 +1,6 @@
 # Defender-for-Cloud
+What is Microsoft Defender for Cloud?
+
 Microsoft Defender for Cloud is a solution for cloud security posture management (CSPM) and cloud workload protection (CWP) that finds weak spots across your cloud configuration, helps strengthen the overall security posture of your environment, and can protect workloads across multicloud and hybrid environments from evolving threats.
 
 How to enable Defender for Cloud on Your Azure Subscription: The main goal of this exercise is to provide hands-on experience in configuring and enabling Microsoft Defender for Servers Plan 2 within an Azure subscription. This will allow you to monitor and protect your cloud resources against security threats.
